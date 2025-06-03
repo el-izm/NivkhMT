@@ -9,4 +9,6 @@ app_file: app.py
 pinned: false
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+[Интерфейс](https://huggingface.co/spaces/el-izm/NivkhMT) на Hugging Face Spaces**
+
+** Инференс медленный, поскольку бесплатный хостинг доступен только на CPU, а квантизация дает значимое ухудчшение BLEU.
